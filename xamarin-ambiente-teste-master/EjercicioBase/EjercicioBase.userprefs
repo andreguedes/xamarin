@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{F604B43B-0FDF-46FA-AFDE-79484E32D3E0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EnviarCorreo.Forms/EnviarCorreo.Forms/ViewModel/ViewModelBase.cs">
+    <Files>
+      <File FileName="EnviarCorreo.Forms/EnviarCorreo.Forms.Droid/MainActivity.cs" Line="25" Column="6" />
+      <File FileName="EnviarCorreo.Forms/EnviarCorreo.Forms/ViewModel/ViewModelBase.cs" Line="26" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EnviarCorreo.Nativo PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EnviarCorreo.Forms.Droid PreferredExecutionTarget="Android.192.168.56.101:5555" />
+</Properties>

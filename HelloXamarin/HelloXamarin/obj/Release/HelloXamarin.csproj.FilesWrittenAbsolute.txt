@@ -1,0 +1,10 @@
+/Users/aguedes/Documents/Xamarin Projects/HelloXamarin/HelloXamarin/obj/Release/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/aguedes/Documents/Xamarin Projects/HelloXamarin/HelloXamarin/obj/Release/HelloXamarin.App.xaml
+/Users/aguedes/Documents/Xamarin Projects/HelloXamarin/HelloXamarin/obj/Release/HelloXamarin.HelloXamarinPage.xaml
+/Users/aguedes/Documents/Xamarin Projects/HelloXamarin/HelloXamarin/obj/Release/HelloXamarin.App.xaml.g.cs
+/Users/aguedes/Documents/Xamarin Projects/HelloXamarin/HelloXamarin/obj/Release/HelloXamarin.HelloXamarinPage.xaml.g.cs
+/Users/aguedes/Documents/Xamarin Projects/HelloXamarin/HelloXamarin/bin/Release/HelloXamarin.dll
+/Users/aguedes/Documents/Xamarin Projects/HelloXamarin/HelloXamarin/obj/Release/HelloXamarin.dll
+/Users/aguedes/Documents/Xamarin Projects/HelloXamarin/HelloXamarin/bin/Release/Xamarin.Forms.Core.dll
+/Users/aguedes/Documents/Xamarin Projects/HelloXamarin/HelloXamarin/bin/Release/Xamarin.Forms.Platform.dll
+/Users/aguedes/Documents/Xamarin Projects/HelloXamarin/HelloXamarin/bin/Release/Xamarin.Forms.Xaml.dll

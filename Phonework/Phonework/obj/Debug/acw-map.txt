@@ -1,0 +1,4 @@
+Phonework.MainActivity, Phonework;md5ff83d56df2922c8484a71be54f4e871e.MainActivity
+Phonework.MainActivity, Phonework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ff83d56df2922c8484a71be54f4e871e.MainActivity
+Phonework.MainActivity;md5ff83d56df2922c8484a71be54f4e871e.MainActivity
+phonework.MainActivity;md5ff83d56df2922c8484a71be54f4e871e.MainActivity

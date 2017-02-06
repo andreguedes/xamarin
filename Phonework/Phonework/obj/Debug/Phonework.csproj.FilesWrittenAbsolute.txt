@@ -1,0 +1,17 @@
+/Users/aguedes/Documents/Xamarin Projects/Phonework/Phonework/obj/Debug/MonoAndroid,Version=v7.0.AssemblyAttribute.cs
+/Users/aguedes/Documents/Xamarin Projects/Phonework/Phonework/bin/Debug/Phonework.dll.mdb
+/Users/aguedes/Documents/Xamarin Projects/Phonework/Phonework/bin/Debug/Phonework.dll
+/Users/aguedes/Documents/Xamarin Projects/Phonework/Phonework/bin/Debug/br.com.andresguedes.phonework.apk
+/Users/aguedes/Documents/Xamarin Projects/Phonework/Phonework/obj/Debug/android/bin/br.com.andresguedes.phonework.apk
+/Users/aguedes/Documents/Xamarin Projects/Phonework/Phonework/obj/Debug/res/layout/main.xml
+/Users/aguedes/Documents/Xamarin Projects/Phonework/Phonework/obj/Debug/res/values/strings.xml
+/Users/aguedes/Documents/Xamarin Projects/Phonework/Phonework/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/aguedes/Documents/Xamarin Projects/Phonework/Phonework/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/aguedes/Documents/Xamarin Projects/Phonework/Phonework/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/aguedes/Documents/Xamarin Projects/Phonework/Phonework/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/aguedes/Documents/Xamarin Projects/Phonework/Phonework/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/aguedes/Documents/Xamarin Projects/Phonework/Phonework/obj/Debug/R.cs.flag
+/Users/aguedes/Documents/Xamarin Projects/Phonework/Phonework/bin/Debug/br.com.andresguedes.phonework-Signed.apk
+/Users/aguedes/Documents/Xamarin Projects/Phonework/Phonework/obj/Debug/uploadflags.txt
+/Users/aguedes/Documents/Xamarin Projects/Phonework/Phonework/obj/Debug/Phonework.dll
+/Users/aguedes/Documents/Xamarin Projects/Phonework/Phonework/obj/Debug/Phonework.dll.mdb
