@@ -1,0 +1,17 @@
+/Users/andreguedes/Documents/Xamarin Projects/ProvaiOSXamarin/ProvaiOSXamarin/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/andreguedes/Documents/Xamarin Projects/ProvaiOSXamarin/ProvaiOSXamarin/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/andreguedes/Documents/Xamarin Projects/ProvaiOSXamarin/ProvaiOSXamarin/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/andreguedes/Documents/Xamarin Projects/ProvaiOSXamarin/ProvaiOSXamarin/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/andreguedes/Documents/Xamarin Projects/ProvaiOSXamarin/ProvaiOSXamarin/obj/iPhoneSimulator/Debug/optimized/
+/Users/andreguedes/Documents/Xamarin Projects/ProvaiOSXamarin/ProvaiOSXamarin/bin/iPhoneSimulator/Debug/ProvaiOSXamarin.exe.mdb
+/Users/andreguedes/Documents/Xamarin Projects/ProvaiOSXamarin/ProvaiOSXamarin/bin/iPhoneSimulator/Debug/ProvaiOSXamarin.exe
+/Users/andreguedes/Documents/Xamarin Projects/ProvaiOSXamarin/ProvaiOSXamarin/obj/iPhoneSimulator/Debug/ProvaiOSXamarin.exe
+/Users/andreguedes/Documents/Xamarin Projects/ProvaiOSXamarin/ProvaiOSXamarin/obj/iPhoneSimulator/Debug/ProvaiOSXamarin.exe.mdb
+/Users/andreguedes/Documents/Xamarin Projects/ProvaiOSXamarin/ProvaiOSXamarin/obj/iPhoneSimulator/Debug/optimized/Default-568h@2x.png
+/Users/andreguedes/Documents/Xamarin Projects/ProvaiOSXamarin/ProvaiOSXamarin/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-9.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/andreguedes/Documents/Xamarin Projects/ProvaiOSXamarin/ProvaiOSXamarin/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-9.3/actool/_PartialAppManifest.items
+/Users/andreguedes/Documents/Xamarin Projects/ProvaiOSXamarin/ProvaiOSXamarin/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-9.3/actool/_BundleResourceWithLogicalName.items
+/Users/andreguedes/Documents/Xamarin Projects/ProvaiOSXamarin/ProvaiOSXamarin/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-9.3/optimized/Default-568h@2x.png
+/Users/andreguedes/Documents/Xamarin Projects/ProvaiOSXamarin/ProvaiOSXamarin/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-9.3/optimized/
+/Users/andreguedes/Documents/Xamarin Projects/ProvaiOSXamarin/ProvaiOSXamarin/bin/iPhoneSimulator/Debug/ProvaiOSXamarin.pdb
+/Users/andreguedes/Documents/Xamarin Projects/ProvaiOSXamarin/ProvaiOSXamarin/obj/iPhoneSimulator/Debug/ProvaiOSXamarin.pdb

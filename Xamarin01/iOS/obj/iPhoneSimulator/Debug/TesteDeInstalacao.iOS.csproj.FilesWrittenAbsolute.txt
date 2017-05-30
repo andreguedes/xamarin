@@ -1,0 +1,15 @@
+/Users/andreguedes/Documents/Xamarin Projects/Xamarin01/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/andreguedes/Documents/Xamarin Projects/Xamarin01/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/andreguedes/Documents/Xamarin Projects/Xamarin01/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/actool/_PartialAppManifest.items
+/Users/andreguedes/Documents/Xamarin Projects/Xamarin01/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/andreguedes/Documents/Xamarin Projects/Xamarin01/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/optimized/
+/Users/andreguedes/Documents/Xamarin Projects/Xamarin01/iOS/bin/iPhoneSimulator/Debug/TesteDeInstalacao.iOS.pdb
+/Users/andreguedes/Documents/Xamarin Projects/Xamarin01/iOS/bin/iPhoneSimulator/Debug/TesteDeInstalacao.iOS.exe
+/Users/andreguedes/Documents/Xamarin Projects/Xamarin01/iOS/obj/iPhoneSimulator/Debug/TesteDeInstalacao.iOS.exe
+/Users/andreguedes/Documents/Xamarin Projects/Xamarin01/iOS/obj/iPhoneSimulator/Debug/TesteDeInstalacao.iOS.pdb
+/Users/andreguedes/Documents/Xamarin Projects/Xamarin01/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/andreguedes/Documents/Xamarin Projects/Xamarin01/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/andreguedes/Documents/Xamarin Projects/Xamarin01/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/andreguedes/Documents/Xamarin Projects/Xamarin01/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/andreguedes/Documents/Xamarin Projects/Xamarin01/iOS/bin/iPhoneSimulator/Debug/TesteDeInstalacao.dll
+/Users/andreguedes/Documents/Xamarin Projects/Xamarin01/iOS/bin/iPhoneSimulator/Debug/TesteDeInstalacao.pdb
